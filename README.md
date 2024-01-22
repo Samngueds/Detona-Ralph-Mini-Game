@@ -1,6 +1,6 @@
 # Detona Ralph:
 
-Bem-vindo ao Detona Ralph: Jogo Básico! Este é um jogo simples  onde você pode clicar no Ralph para ganhar pontos.
+Bem-vindo ao Detona Ralph: Este é um jogo simples  onde você pode clicar no Ralph para ganhar pontos.
 
 ## Instruções
 
